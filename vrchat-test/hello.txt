@@ -1,0 +1,2 @@
+Hello from Hearth Orbital! If you can read this in VRChat, string loading from GitHub Pages works.
+format=1
