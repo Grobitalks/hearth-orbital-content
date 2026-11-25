@@ -1,7 +1,7 @@
 {
  "format": 1,
- "version": 2,
- "published": "2026-11-25T05:14:54.429Z",
+ "version": 3,
+ "published": "2026-11-25T17:01:16.911Z",
  "note": "Hearth Orbital world content. Compare 'version' and each module 'sha' with what you loaded; reload only what changed.",
  "modules": {
   "gallery": {
@@ -71,44 +71,44 @@
   },
   "credits": {
    "enabled": true,
-   "sections": 0,
-   "sounds": 0,
+   "sections": 8,
+   "sounds": 148,
    "files": [
     {
      "file": "credits.json",
-     "sha": "c4b192233cdf89b0d286d9663000d34d14dddfd4",
-     "bytes": 41
+     "sha": "a053c404483090a2e43a81eac7863802e7956a54",
+     "bytes": 20326
     }
    ],
-   "sha": "3bcb410c3679"
+   "sha": "23bd5c14a941"
   },
   "community": {
    "enabled": true,
-   "invite": false,
+   "invite": true,
    "group": false,
    "files": [
     {
      "file": "community.json",
-     "sha": "c5c50b4d054b1960e8e0375d40ae8c155c7b453c",
-     "bytes": 883
+     "sha": "e75b998f00d3134681d7d1ed8709d7da2facb2c5",
+     "bytes": 1041
     }
    ],
-   "sha": "228e9ccba1c0"
+   "sha": "8c797800464e"
   },
   "worldroles": {
    "enabled": true,
-   "admins": 0,
-   "moderators": 0,
-   "vips": 0,
+   "admins": 1,
+   "moderators": 1,
+   "vips": 1,
    "blocked": 0,
    "files": [
     {
      "file": "roles.json",
-     "sha": "88f3fdf6e6ab99d3481b7944a179a3ef6588838b",
-     "bytes": 158
+     "sha": "ec93bc4d035183653d3b8c3af593a5c1c9176aed",
+     "bytes": 179
     }
    ],
-   "sha": "9daa5dfa405c"
+   "sha": "544082527051"
   },
   "supporters": {
    "enabled": false
