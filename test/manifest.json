@@ -1,57 +1,57 @@
 {
  "format": 1,
- "version": 7,
- "published": "2026-11-25T17:32:38.503Z",
- "note": "SAMPLE DATA for building the world loaders. The owner's first real Publish replaces all of it. Hearth Orbital world content. Compare 'version' and each module 'sha' with what you loaded; reload only what changed.",
+ "version": 8,
+ "published": "2026-11-25T19:36:16.968Z",
+ "note": "Hearth Orbital world content. Compare 'version' and each module 'sha' with what you loaded; reload only what changed.",
  "modules": {
   "gallery": {
    "enabled": true,
-   "pictures": 4,
+   "pictures": 0,
    "files": [
     {
      "file": "gallery.json",
-     "sha": "d99ee047b76ee84f741c3465fda29f212440297a",
-     "bytes": 505
+     "sha": "a365be5a3c29574f9dee07b4f66a078f81732a07",
+     "bytes": 101
     }
    ],
-   "sha": "8cd818f9895d"
+   "sha": "d597f93ab552"
   },
   "news": {
    "enabled": true,
-   "posts": 4,
+   "posts": 1,
    "motd": true,
    "files": [
     {
      "file": "news.json",
-     "sha": "3ab206419f610cee0cd349688709b6b0a368e9f3",
-     "bytes": 1521
+     "sha": "e8eb1222045c117adc950dbe87e11d6c80f8822e",
+     "bytes": 1659
     }
    ],
-   "sha": "c1639a8a68cc"
+   "sha": "03cffd65f3f4"
   },
   "lines": {
    "enabled": true,
-   "lines": 8,
+   "lines": 536,
    "files": [
     {
      "file": "lines.json",
-     "sha": "d6153e3fb22b88e64e693dedddae4f088f4e07a0",
-     "bytes": 982
+     "sha": "49c6a835587c038e96fa06a665c88a3de97aedbb",
+     "bytes": 66976
     }
    ],
-   "sha": "f980c637dccd"
+   "sha": "e5edb17d1323"
   },
   "events": {
    "enabled": true,
-   "events": 4,
+   "events": 0,
    "files": [
     {
      "file": "events.json",
-     "sha": "b75dcf36b21a8a2c756039943d3552c43fb169b7",
-     "bytes": 1388
+     "sha": "19f997cd12be98b34d68344498d967ed4a7163e5",
+     "bytes": 30
     }
    ],
-   "sha": "e938e677488c"
+   "sha": "90d074f4c539"
   },
   "stationlog": {
    "enabled": true,
@@ -59,11 +59,11 @@
    "files": [
     {
      "file": "stationlog.json",
-     "sha": "5e63dde4805656ddd47e154d029c81bb1494c4c7",
-     "bytes": 218
+     "sha": "276fe13ff841313e786437d72065beac5559b52c",
+     "bytes": 1969
     }
    ],
-   "sha": "cabebaf8ab28"
+   "sha": "f6c36c2116ec"
   },
   "playlists": {
    "enabled": true,
@@ -94,89 +94,38 @@
   "community": {
    "enabled": true,
    "invite": true,
-   "group": true,
+   "group": false,
    "files": [
     {
      "file": "community.json",
-     "sha": "d969ef20491063e5a73653ae1aa326ea6923aadf",
-     "bytes": 1169
+     "sha": "e75b998f00d3134681d7d1ed8709d7da2facb2c5",
+     "bytes": 1041
     }
    ],
-   "sha": "35fc7df6f9bc"
+   "sha": "8c797800464e"
   },
   "worldroles": {
    "enabled": true,
-   "admins": 0,
-   "moderators": 0,
-   "vips": 0,
+   "admins": 1,
+   "moderators": 1,
+   "vips": 1,
    "blocked": 0,
    "files": [
     {
      "file": "roles.json",
-     "sha": "88f3fdf6e6ab99d3481b7944a179a3ef6588838b",
-     "bytes": 158
+     "sha": "ec93bc4d035183653d3b8c3af593a5c1c9176aed",
+     "bytes": 179
     }
    ],
-   "sha": "9daa5dfa405c"
+   "sha": "544082527051"
   },
   "supporters": {
    "enabled": false
   }
  },
  "slots": {
-  "gallery": [
-   {
-    "n": 1,
-    "file": "gallery/01a.jpg",
-    "sha": "0b8d523b3110dedd53b13c541cededd067bb403c",
-    "w": 1024,
-    "h": 1024,
-    "bytes": 103931
-   },
-   {
-    "n": 2,
-    "file": "gallery/02a.jpg",
-    "sha": "7aa3c3e930c7bd9968b04b56e947c09e42a68b41",
-    "w": 1024,
-    "h": 1024,
-    "bytes": 78649
-   },
-   {
-    "n": 3,
-    "file": "gallery/03a.jpg",
-    "sha": "c7e2abaa7abd37d2ba34b2fe8ff77fb36c804f58",
-    "w": 1024,
-    "h": 1024,
-    "bytes": 92628
-   },
-   {
-    "n": 4,
-    "file": "gallery/04a.jpg",
-    "sha": "84ba698ae6949a861f482c4e2c1279946588369a",
-    "w": 1024,
-    "h": 1024,
-    "bytes": 75195
-   }
-  ],
-  "news": [
-   {
-    "n": 1,
-    "file": "news/01a.jpg",
-    "sha": "78b85513e70f91a7986c88cd18119099db33ace4",
-    "w": 1280,
-    "h": 720,
-    "bytes": 94540
-   },
-   {
-    "n": 2,
-    "file": "news/02a.jpg",
-    "sha": "0c0cba1de86f81d03b9c8243002e85b14a3c9f1d",
-    "w": 1280,
-    "h": 720,
-    "bytes": 81795
-   }
-  ],
+  "gallery": [],
+  "news": [],
   "community": []
- },
- "sample": true
+ }
 }
