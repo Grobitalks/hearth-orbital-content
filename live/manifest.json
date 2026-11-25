@@ -1,0 +1,122 @@
+{
+ "format": 1,
+ "version": 2,
+ "published": "2026-11-25T05:14:54.429Z",
+ "note": "Hearth Orbital world content. Compare 'version' and each module 'sha' with what you loaded; reload only what changed.",
+ "modules": {
+  "gallery": {
+   "enabled": true,
+   "pictures": 0,
+   "files": [
+    {
+     "file": "gallery.json",
+     "sha": "a365be5a3c29574f9dee07b4f66a078f81732a07",
+     "bytes": 101
+    }
+   ],
+   "sha": "d597f93ab552"
+  },
+  "news": {
+   "enabled": true,
+   "posts": 0,
+   "motd": true,
+   "files": [
+    {
+     "file": "news.json",
+     "sha": "0427003864ed054676b95fc516a7d3cf1f9300ea",
+     "bytes": 343
+    }
+   ],
+   "sha": "b7498a29d940"
+  },
+  "lines": {
+   "enabled": false
+  },
+  "events": {
+   "enabled": true,
+   "events": 0,
+   "files": [
+    {
+     "file": "events.json",
+     "sha": "19f997cd12be98b34d68344498d967ed4a7163e5",
+     "bytes": 30
+    }
+   ],
+   "sha": "90d074f4c539"
+  },
+  "stationlog": {
+   "enabled": true,
+   "entries": 0,
+   "files": [
+    {
+     "file": "stationlog.json",
+     "sha": "ea5f75f17a5ddc89bb2ff0648b95de349245783b",
+     "bytes": 14
+    }
+   ],
+   "sha": "6538241c1f18"
+  },
+  "playlists": {
+   "enabled": true,
+   "playlists": 0,
+   "links": 0,
+   "files": [
+    {
+     "file": "playlists.json",
+     "sha": "ca222e9cc17c10ca5abc2a14950c9e4ed923b732",
+     "bytes": 56
+    }
+   ],
+   "sha": "e99b0cdba389"
+  },
+  "credits": {
+   "enabled": true,
+   "sections": 0,
+   "sounds": 0,
+   "files": [
+    {
+     "file": "credits.json",
+     "sha": "c4b192233cdf89b0d286d9663000d34d14dddfd4",
+     "bytes": 41
+    }
+   ],
+   "sha": "3bcb410c3679"
+  },
+  "community": {
+   "enabled": true,
+   "invite": false,
+   "group": false,
+   "files": [
+    {
+     "file": "community.json",
+     "sha": "c5c50b4d054b1960e8e0375d40ae8c155c7b453c",
+     "bytes": 883
+    }
+   ],
+   "sha": "228e9ccba1c0"
+  },
+  "worldroles": {
+   "enabled": true,
+   "admins": 0,
+   "moderators": 0,
+   "vips": 0,
+   "blocked": 0,
+   "files": [
+    {
+     "file": "roles.json",
+     "sha": "88f3fdf6e6ab99d3481b7944a179a3ef6588838b",
+     "bytes": 158
+    }
+   ],
+   "sha": "9daa5dfa405c"
+  },
+  "supporters": {
+   "enabled": false
+  }
+ },
+ "slots": {
+  "gallery": [],
+  "news": [],
+  "community": []
+ }
+}
