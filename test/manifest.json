@@ -1,7 +1,7 @@
 {
  "format": 1,
- "version": 5,
- "published": "2026-11-25T17:21:04.645Z",
+ "version": 6,
+ "published": "2026-11-25T17:29:17.534Z",
  "note": "Hearth Orbital world content. Compare 'version' and each module 'sha' with what you loaded; reload only what changed.",
  "modules": {
   "gallery": {
@@ -30,7 +30,16 @@
    "sha": "b7498a29d940"
   },
   "lines": {
-   "enabled": false
+   "enabled": true,
+   "lines": 536,
+   "files": [
+    {
+     "file": "lines.json",
+     "sha": "49c6a835587c038e96fa06a665c88a3de97aedbb",
+     "bytes": 66976
+    }
+   ],
+   "sha": "e5edb17d1323"
   },
   "events": {
    "enabled": true,
