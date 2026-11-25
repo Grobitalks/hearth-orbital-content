@@ -1,7 +1,7 @@
 {
  "format": 1,
- "version": 8,
- "published": "2026-11-25T19:36:16.968Z",
+ "version": 9,
+ "published": "2026-11-25T19:39:32.891Z",
  "note": "Hearth Orbital world content. Compare 'version' and each module 'sha' with what you loaded; reload only what changed.",
  "modules": {
   "gallery": {
@@ -85,11 +85,11 @@
    "files": [
     {
      "file": "credits.json",
-     "sha": "a053c404483090a2e43a81eac7863802e7956a54",
-     "bytes": 20326
+     "sha": "093b7d2ebdd9f9bb1af0c62fcaaf83d3dfa3c02d",
+     "bytes": 21542
     }
    ],
-   "sha": "23bd5c14a941"
+   "sha": "337bc26bf8ac"
   },
   "community": {
    "enabled": true,
