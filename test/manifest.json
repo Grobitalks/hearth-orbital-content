@@ -1,7 +1,7 @@
 {
  "format": 1,
- "version": 10,
- "published": "2026-11-26T18:26:54.229Z",
+ "version": 11,
+ "published": "2026-11-26T21:33:12.831Z",
  "note": "Hearth Orbital world content. Compare 'version' and each module 'sha' with what you loaded; reload only what changed.",
  "modules": {
   "gallery": {
@@ -18,16 +18,16 @@
   },
   "news": {
    "enabled": true,
-   "posts": 1,
+   "posts": 2,
    "motd": true,
    "files": [
     {
      "file": "news.json",
-     "sha": "e8eb1222045c117adc950dbe87e11d6c80f8822e",
-     "bytes": 1659
+     "sha": "12fc4a98fecbaab7deb821d780fde5c14e6a557f",
+     "bytes": 3024
     }
    ],
-   "sha": "03cffd65f3f4"
+   "sha": "35ba4ba7fd74"
   },
   "lines": {
    "enabled": true,
@@ -55,15 +55,15 @@
   },
   "stationlog": {
    "enabled": true,
-   "entries": 1,
+   "entries": 2,
    "files": [
     {
      "file": "stationlog.json",
-     "sha": "276fe13ff841313e786437d72065beac5559b52c",
-     "bytes": 1969
+     "sha": "432622c7719b28b1149df431cf2bb4f74c159dba",
+     "bytes": 3927
     }
    ],
-   "sha": "f6c36c2116ec"
+   "sha": "64b95e5b9e1b"
   },
   "playlists": {
    "enabled": true,
