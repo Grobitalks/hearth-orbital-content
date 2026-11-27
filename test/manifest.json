@@ -1,7 +1,7 @@
 {
  "format": 1,
- "version": 11,
- "published": "2026-11-26T21:33:12.831Z",
+ "version": 12,
+ "published": "2026-11-27T20:04:11.116Z",
  "note": "Hearth Orbital world content. Compare 'version' and each module 'sha' with what you loaded; reload only what changed.",
  "modules": {
   "gallery": {
@@ -18,16 +18,16 @@
   },
   "news": {
    "enabled": true,
-   "posts": 2,
+   "posts": 3,
    "motd": true,
    "files": [
     {
      "file": "news.json",
-     "sha": "12fc4a98fecbaab7deb821d780fde5c14e6a557f",
-     "bytes": 3024
+     "sha": "e5cdb2fed68a93c8daf707c594cd8bf065a05ee2",
+     "bytes": 4447
     }
    ],
-   "sha": "35ba4ba7fd74"
+   "sha": "9f860dec293a"
   },
   "lines": {
    "enabled": true,
@@ -55,15 +55,15 @@
   },
   "stationlog": {
    "enabled": true,
-   "entries": 2,
+   "entries": 3,
    "files": [
     {
      "file": "stationlog.json",
-     "sha": "432622c7719b28b1149df431cf2bb4f74c159dba",
-     "bytes": 3927
+     "sha": "44061ec37ad772b1d3c45fd774ef4daa75044075",
+     "bytes": 6440
     }
    ],
-   "sha": "64b95e5b9e1b"
+   "sha": "46d759ac87dd"
   },
   "playlists": {
    "enabled": true,
@@ -108,16 +108,16 @@
    "enabled": true,
    "admins": 1,
    "moderators": 1,
-   "vips": 1,
+   "vips": 2,
    "blocked": 0,
    "files": [
     {
      "file": "roles.json",
-     "sha": "ec93bc4d035183653d3b8c3af593a5c1c9176aed",
-     "bytes": 179
+     "sha": "15f01d590249f7f7802d6b9642472e5a2ba5fda6",
+     "bytes": 195
     }
    ],
-   "sha": "544082527051"
+   "sha": "0ceeaca577d1"
   },
   "supporters": {
    "enabled": false
