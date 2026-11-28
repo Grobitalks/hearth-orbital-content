@@ -1,7 +1,7 @@
 {
  "format": 1,
- "version": 16,
- "published": "2026-11-28T13:28:29.134Z",
+ "version": 17,
+ "published": "2026-11-28T13:55:38.000Z",
  "note": "Hearth Orbital world content. Compare 'version' and each module 'sha' with what you loaded; reload only what changed.",
  "modules": {
   "gallery": {
@@ -23,11 +23,11 @@
    "files": [
     {
      "file": "news.json",
-     "sha": "4e654eee595a819aff8d2b10a154f92b21e75361",
-     "bytes": 5850
+     "sha": "91fc9c60bb9c21492dbdb8b597e4dbecaf0de97b",
+     "bytes": 5849
     }
    ],
-   "sha": "4059f5e288bd"
+   "sha": "7d248ec3c1e3"
   },
   "lines": {
    "enabled": true,
