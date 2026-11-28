@@ -1,7 +1,7 @@
 {
  "format": 1,
- "version": 12,
- "published": "2026-11-27T20:04:11.116Z",
+ "version": 13,
+ "published": "2026-11-28T08:14:05.954Z",
  "note": "Hearth Orbital world content. Compare 'version' and each module 'sha' with what you loaded; reload only what changed.",
  "modules": {
   "gallery": {
@@ -120,12 +120,31 @@
    "sha": "0ceeaca577d1"
   },
   "supporters": {
-   "enabled": false
+   "enabled": true,
+   "supporters": 3,
+   "tiers": 3,
+   "members": 4,
+   "files": [
+    {
+     "file": "supporters.json",
+     "sha": "a16c773eee5cb64f70284b00c64abbcc2c148021",
+     "bytes": 981
+    },
+    {
+     "file": "perks.json",
+     "sha": "222bce41aa7ef5929931c30eac87c9a651bab0f3",
+     "bytes": 1171
+    }
+   ],
+   "sha": "7cb30687f208"
   }
  },
  "slots": {
   "gallery": [],
   "news": [],
   "community": []
- }
+ },
+ "sampleModules": [
+  "supporters"
+ ]
 }
